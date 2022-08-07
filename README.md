@@ -16,7 +16,7 @@ We need to identify the factors which causes increase in air pollution and try t
 Our goal is to build a model to determine a model and see if the Air pollution in India is rising and what are the factors that causes this increase in air pollution. 
 We will use Bayesian Estimation and various Macine learning algorithms to check how much the air polluion has increased in various cities over the period of time.
 
-Data Science Libraries used which needs to be installed using command (pip install library name*)- 
+### Data Science Libraries used which needs to be installed using command (pip install library name*)- 
 numpy, pandas, scipy, scikitlearn, seaborn, matplotlib, plotply, FB Prophet, pymc3. 
 
 ## Conclusion
